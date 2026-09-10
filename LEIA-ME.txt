@@ -1,0 +1,7 @@
+PÁGINA DE VENDAS ENEM — COMO USAR
+
+1. Abra index.html no navegador para visualizar.
+2. No arquivo index.html, procure por:
+   https://SEU-LINK-DA-CAKTO-AQUI
+3. Substitua TODAS as ocorrências pelo link do seu checkout da Cakto.
+4. Publique a pasta inteira (index.html + criativo-enem.png) no serviço de hospedagem.
